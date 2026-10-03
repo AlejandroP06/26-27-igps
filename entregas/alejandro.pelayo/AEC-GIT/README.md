@@ -56,6 +56,19 @@ Durante la actividad utilicé comandos básicos de Git como `git clone`, `git st
 
 Finalmente, la rama de modificaciones se fusionará con `main` y se realizará el Pull Request hacia el repositorio original.
 
+## Comandos utilizados
+
+Durante la actividad utilicé comandos básicos de Git como:
+
+- `git clone`
+- `git status`
+- `git add`
+- `git commit`
+- `git push`
+- `git checkout`
+- `git branch`
+- `git merge`
+  
 ## Conclusión
 
 Esta actividad me ha permitido practicar el flujo básico de trabajo con Git y GitHub: fork, clonación, creación de ramas, commits, push, merge y Pull Request.
