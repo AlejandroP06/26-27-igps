@@ -72,3 +72,7 @@ Durante la actividad utilicé comandos básicos de Git como:
 - `git checkout`
 - `git branch`
 - `git merge`
+
+## Estado final
+
+La documentación recoge el proceso seguido durante la actividad y las evidencias de las operaciones realizadas con Git y GitHub.
